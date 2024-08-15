@@ -1,4 +1,4 @@
-<div align="center">
+<div align="left">
 <a name="tech-stack">⚙️ Tech Stack</a>
 
 - Tailwind CSS
