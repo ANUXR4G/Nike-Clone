@@ -1,5 +1,5 @@
 <div align="center">
-## <a name="tech-stack">⚙️ Tech Stack</a>
+<a name="tech-stack">⚙️ Tech Stack</a>
 
 - Tailwind CSS
 - React.js
